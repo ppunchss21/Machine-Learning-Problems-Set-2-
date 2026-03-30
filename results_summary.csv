@@ -1,0 +1,5 @@
+Model,Accuracy,Macro F1,Domain
+TF-IDF + LR (tweet test),0.8320441988950277,0.7995432600064433,Twitter
+LSA Embeddings + LR (tweet test),0.6933701657458563,0.6582102787523615,Twitter
+TF-IDF + LR (cross-domain: news),0.388671875,0.3727695791202977,News
+LSA Embeddings + LR (cross-domain),0.423828125,0.40291463938169175,News
